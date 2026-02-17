@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-- 🌱 I’m an undergraduate student studying Computer Science and Cybersecurity at the University of Western Australia while touching upon fields of Graphic and UI/UX design and Web development out of school.
+- 🌱 I graduated from the University of Western Australia with a Bachelor's degree in Computer Science and Cybersecurity. I also did online courses on fields of Graphic and UI/UX design and Web development.
 - 📫 How to reach me:
     - E-mail: emily.han225@gmail.com
     - LinkedIn: https://www.linkedin.com/in/emily-han-551815278/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a hobby in crochet/knitting. 
 
 <!--
 **EmilyHan22/EmilyHan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
